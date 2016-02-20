@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 // fds
+// another nasty comment
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
