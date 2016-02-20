@@ -3,6 +3,9 @@
 #include <QSlider>
 #include <QSpinBox>
 
+
+
+// chandeg this file, power of a comment
 int main(int argc, char *argv[]) {
     QApplication prog(argc, argv);
 
